@@ -10,4 +10,5 @@ public class EurekaserverApplication {
 		SpringApplication.run(EurekaserverApplication.class, args);
 	}
 
+	/*teste*/
 }
